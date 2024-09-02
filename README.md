@@ -1,4 +1,4 @@
-# simplekit Template Project
+# hello world in simplekit 
 
-This project has been setup to provide a basic setup for new apps created with simplekit.
+A hello world example using simplekit and typescript.
  
